@@ -7,14 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_X7O2BkFLvqyCdZzDZvV2MB0aAvYALLC
 
 # Informer Demo
-
-## Download code and dataset
-"""
-
-!git clone https://github.com/zhouhaoyi/Informer2020.git
-!git clone https://github.com/zhouhaoyi/ETDataset.git
-!ls
-
 import sys
 if not 'Informer2020' in sys.path:
     sys.path += ['Informer2020']
